@@ -11,5 +11,5 @@ untuk jawaban no 4 kurang lebih seperti ini, silahkan buka di browser atau salin
 jawaban No.5
 Untuk menjalankannya silahkan buka pada browser atau https://www.onlinegdb.com/ dan ganti warna yang diinginkan, 'strolower' saya gunakan untuk merubah huruf menjadi kecil semua.
 Jawaban No.6 
-- 6a merupakan database nya
+- 6a merupakan databasenya
 - 6b meruapakan rancangan yang saya buat di figma.com dan ada juga file html nya yang bisa dijalankan melalui browser.

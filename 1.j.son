@@ -1,0 +1,23 @@
+{
+	"name": "Imam Febi Satrio",
+	"age": 22,
+	"address": "Jl. masjid al-mujahidin RT02/RW06, kelurahan meruyung, kecamatan limo, Kota Depok",
+	"hobbies": ["Photograpy","Editing Photo","Travelling"],
+	"is_married": "FALSE",
+	"list_school": 
+	[
+		{	"asal":"SMA tadika pertiwi", "year_in": 2012, "year_out": 2015 }
+		{	"asal":"Universitas Gunadarma","year_in": 2016,"year_out": 2019, "major":"Teknik Informatika"}
+	],
+	"Skills": 	
+	{
+		"Adobe Lightroom": "Expert",
+		"Adobe Photoshop": "Advanced",
+		"photography": "Advanced",
+		"php": "Advanced",
+		"css": "beginner",
+		"html" "beginner"
+
+	},
+	"interest_in_coding": "TRUE"
+}
